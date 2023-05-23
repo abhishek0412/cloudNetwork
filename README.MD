@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Folks! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/abhishek0412.https://github.com/abhishek0412)
@@ -43,9 +43,9 @@ Load balance
 
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
-![Metrics](https://metrics.lecoq.io/https://github.com/abhishek0412?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek0412&theme=transparent)](https://git.io/streak-stats)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek0412&layout=compact&theme=vision-friendly-dark)](def)
 
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
