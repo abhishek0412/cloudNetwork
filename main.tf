@@ -10,7 +10,7 @@ resource "azurerm_resource_group" "rg" {
 # A Network security group
 resource "azurerm_network_security_group" "nsg" {
   name                = var.nsgname
-  location            = var.resource_group_location
+  location            = var.location
   resource_group_name = var.resource_group_name
   tags = {
     purpose = var.tagname
